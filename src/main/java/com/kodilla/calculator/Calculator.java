@@ -13,7 +13,7 @@ public class Calculator {
         this.operation();
         answer = a + b;
 
-        System.out.println("--------------------");
+        System.out.println("xxxxxxxxxxxxxxxxxxxxx");
         System.out.println(a + " + " + b + " = " + answer );
         System.out.println("--------------------");
     }
