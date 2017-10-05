@@ -39,6 +39,7 @@ public class Main {
         }
     }
 
+
     private static void printList() {
         System.out.println("\nPress: ");
         System.out.println("\t 1 for (+)");

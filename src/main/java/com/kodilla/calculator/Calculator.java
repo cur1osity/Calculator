@@ -23,7 +23,7 @@ public class Calculator {
         this.operation();
         answer = a - b;
 
-        System.out.println("--------------------");
+        System.out.println("xxxxxxxxxxxxxxxxxxxx");
         System.out.println(a + " - " + b + " = " + answer );
         System.out.println("--------------------");
     }
